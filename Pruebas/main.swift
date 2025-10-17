@@ -13,6 +13,7 @@ var variable1 = 10;
 var variableTexto = "Hola";
 let const1: Int = 4;
 let text1 = "El numero es ";
+var numero1 = 10, numero2 = 20, numero3 = 13
 
 let const2 = text1 + String(const1)
 
